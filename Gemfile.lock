@@ -294,7 +294,7 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  omniauth-rails_csrf_protection (~> 1.0)
+  omniauth-rails_csrf_protection
   omniauth-twitter (~> 1.4)
   pg (~> 1.1)
   pry
